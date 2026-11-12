@@ -64,7 +64,7 @@ if you saw me PLZZZZAHH sit with me!!
 c+hfreely! im mostly always sit alone 
 there 
 
-IM SO FRIENDLY PLZ INT (i might be shy a lit, i never int first) 
+IM SO FRIENDLY PLZ INT (im shy, i never int first) 
 sigh but most of time offt/afk so feel free 
 to whisper instead!! 
 
@@ -95,4 +95,4 @@ if you wanna know more just check my strawpage!(im remakin it soon)
 
 
 <div align="center">
-  <img src="" width="100">
+  <img src="https://i.postimg.cc/jqWxDgrs/d2c27449ca8ba0ae4d4aed52ec26d7e3.jpg" width="100">
