@@ -13,7 +13,7 @@
 
 
 <div align="center">
-   <img src="https://i.postimg.cc/qvDyxDgS/In-Shot-20261112-051543247.png"
+   <img src="https://i.postimg.cc/50sVXzsq/In-Shot-20261112-052350462.png"
              width="100%"> 
 
 
