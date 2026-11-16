@@ -13,7 +13,7 @@
 
 
 <div align="center">
-   <img src=""
+   <img src="https://i.postimg.cc/8cMYvT0w/In-Shot-20261029-030520974.png"
              width="500"> 
 
 
@@ -29,7 +29,7 @@
 
 
 <div align="center">
-   <img src=""
+   <img src="https://i.postimg.cc/vBW7LDGX/In-Shot-20261029-030727984.png"
              width="500"> 
 
 
