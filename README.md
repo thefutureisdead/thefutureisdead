@@ -1,13 +1,13 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/FH4cbtQC/6b5f9e4d76cc73b17cac7371d835d887.gif" width="50" />
+  <img src="https://i.postimg.cc/R089QVgq/56e1c207f989c2ff008c11141f748adb.gif" width="50" />
 
 
 
   
 
 <div align="center">
-<img src="https://img.shields.io/badge/♡-627-AE83A3?labelColor=C5C3DE">
+<img src="https://img.shields.io/badge/☆-627-AE83A3?labelColor=C5C3DE">
 </div>
 
 
@@ -34,7 +34,7 @@
 
 
 <p align="center">
-   <img src="https://i.postimg.cc/BvvjN47L/01636c5434cd0462086620c60fdfec16.gif" width="50" />
+   <img src="https://i.postimg.cc/Bn4vX6VR/a5430d65f18e18da738eded6cc0e7d90.gif" width="50" />
 </p>
 
 
