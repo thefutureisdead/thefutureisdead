@@ -99,4 +99,4 @@ if you wanna know more just check my strawpage!(im remakin it soon)
 
 
 <div align="center">
-  <img src="https://i.postimg.cc/jqWxDgrs/d2c27449ca8ba0ae4d4aed52ec26d7e3.jpg" width="100">
+  <img src="https://i.postimg.cc/Qd3RDKym/423ed85bec2c17c41f2f87bef2e357b9.gif" width="100">
