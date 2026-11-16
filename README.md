@@ -7,7 +7,7 @@
   
 
 <div align="center">
-<img src="https://img.shields.io/badge/☆-627-AE83A3?labelColor=C5C3DE">
+<img src="https://img.shields.io/badge/☆-627-088332?labelColor=C0913F">
 </div>
 
 
@@ -19,10 +19,10 @@
 
 <p align="center">
   <a href="https://supermanbanny.atabook.org">
-    <img src="https://img.shields.io/badge/♡--𝐴𝑡𝑎-AE83A3?style=flat-square&labelColor=0D1117" alt="AtaBook">
+    <img src="https://img.shields.io/badge/♡--𝐴𝑡𝑎-C0913F?style=flat-square&labelColor=0D1117" alt="AtaBook">
   </a>
   <a href="https://bannysupermann.straw.page">
-    <img src="https://img.shields.io/badge/♥--𝑆𝑡𝑟𝑎𝑤𝑝𝑎𝑔𝑒-C5C3DE?style=flat-square&labelColor=0D1117" alt="Strawpage">
+    <img src="https://img.shields.io/badge/♥--𝑆𝑡𝑟𝑎𝑤𝑝𝑎𝑔𝑒-088332?style=flat-square&labelColor=0D1117" alt="Strawpage">
   </a>
 </p>
 
