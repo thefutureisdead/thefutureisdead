@@ -3,7 +3,7 @@
   
 
 <div align="center">
-<img src="https://img.shields.io/badge/☆-627-A8959A?labelColor=ECE1E7">
+<img src="https://img.shields.io/badge/𝑪𝒐𝒐𝒍-627-AAB0E6?labelColor=4A7FBF">
 </div>
 
 
