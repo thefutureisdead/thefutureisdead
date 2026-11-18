@@ -74,4 +74,4 @@ if you wanna know more just check my strawpage!(im remakin it soon)
 
 <div align="center">
    <img src="https://i.postimg.cc/vBJzJnTh/ezgif-46f47ad101f38466.gif"
-             width="100%"> 
+             width="700"> 
