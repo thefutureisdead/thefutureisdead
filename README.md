@@ -12,7 +12,7 @@
 
 
 <div align="center">
-   <img src="https://i.postimg.cc/vBW7LDGX/In-Shot-20261029-030727984.png"
+   <img src="https://i.postimg.cc/GtYFKDSr/ezgif-829fa839304df235.gif"
              width="100%"> 
 
 <table>
