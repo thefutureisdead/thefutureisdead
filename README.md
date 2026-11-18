@@ -12,7 +12,7 @@
 
 
 <div align="center">
-   <img src="https://i.postimg.cc/GtYFKDSr/ezgif-829fa839304df235.gif"
+   <img src="https://i.postimg.cc/Y0gPFh62/ezgif-8cc7addf66e6fe55.gif"
              width="100%"> 
 
 <table>
@@ -47,7 +47,7 @@ toxic/problematic/dark/pro ship!
 
 SOMETIMES on offline mod, plz no i did not unfriend you, i don't send friend requests at all and i do not unfriend someone if they added me. 
 
-i change my readme A LOT! it will always be one of these characters: Sonic / Silver / Nicky 
+i change my readme A LOT. 
 
 if you wanna know more just check my strawpage!(im remakin it soon) 
 
