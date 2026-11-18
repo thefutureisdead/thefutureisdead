@@ -73,5 +73,5 @@ if you wanna know more just check my strawpage!(im remakin it soon)
 
 
 <div align="center">
-   <img src=""
-             width="300"> 
+   <img src="https://i.postimg.cc/52n9tqw3/In-Shot-20261118-101501687.png"
+             width="100"> 
