@@ -3,7 +3,7 @@
   
 
 <div align="center">
-<img src="https://img.shields.io/badge/𝑪𝒐𝒐𝒍-627-AAB0E6?labelColor=4A7FBF">
+<img src="https://img.shields.io/badge/𝒉𝒆𝒅𝒈𝒆𝒉𝒐𝒈𝒔-627-AAB0E6?labelColor=4A7FBF">
 </div>
 
 
@@ -73,5 +73,5 @@ if you wanna know more just check my strawpage!(im remakin it soon)
 
 
 <div align="center">
-   <img src="https://i.postimg.cc/vBJzJnTh/ezgif-46f47ad101f38466.gif"
-             width="700"> 
+   <img src=""
+             width="300"> 
