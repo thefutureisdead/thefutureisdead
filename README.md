@@ -41,7 +41,7 @@ wip hi
         <tr>
           <td align="center" style="border: 2px solid #454955; padding: 25px;">
             <a href="YOUR-INFOS-1-LINK">
-              <img src="YOUR-INFOS-1-IMAGE" width="70">
+              <img src="https://i.postimg.cc/QMRZHcRn/In-Shot-20261127-053058890.png" width="65">
             </a>
           </td>
         </tr>
@@ -49,7 +49,7 @@ wip hi
   <tr>
           <td align="center" style="border: 2px solid #454955; padding: 25px;">
             <a href="YOUR-INFOS-2-LINK">
-              <img src="" width="70">
+              <img src="https://i.postimg.cc/9fvHry6m/In-Shot-20261127-053045567.png" width="65">
             </a>
           </td>
         </tr>
