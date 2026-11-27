@@ -1,11 +1,11 @@
 wip hi
 
 <div align="center">
-  <a href="LINK_1">
-    <img src="IMAGE_1" width="150">
+  <a href="sp link">
+    <img src="https://i.postimg.cc/CMDg8f1k/In-Shot-20261127-040259672.png" width="190">
   </a>
-  <a href="LINK_2">
-    <img src="IMAGE_2" width="150">
+  <a href="https://supermanbanny.atabook.org/">
+    <img src="https://i.postimg.cc/05msSJQ8/In-Shot-20261127-040218770.png" width="150">
   </a>
 </div>
 
