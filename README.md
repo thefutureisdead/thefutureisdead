@@ -62,6 +62,11 @@
 
 
 <div align="center">
+<img src="https://img.shields.io/badge/𝐻𝑒𝑑𝑔𝑒ℎ𝑜𝑔𝑠-27K-627CEB?labelColor=48BAF6">
+</a> 
+
+
+<div align="center">
   <img src="https://i.postimg.cc/Zq2QKZ1D/In-Shot-20261127-064907394.png" width="300"> 
 
 
