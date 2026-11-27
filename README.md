@@ -37,3 +37,15 @@ wip hi
   </td>
   </tr>
 </table>
+
+
+<div align="center">
+  <img src="IMAGE" width="250" align="left">
+
+  <details>
+    <summary><b> ☆ </b></summary>
+
+  wip 
+
+  </details>
+</div>
