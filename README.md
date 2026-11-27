@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/dVcYsRcb/In-Shot-20261127-055822917.png" width="500"
+  <img src="https://i.postimg.cc/dVcYsRcb/In-Shot-20261127-055822917.png" width="100%"> 
 
 <div align="center">
   <a href="sp link">
@@ -62,5 +62,5 @@
 
 
 <div align="center">
-  <img src="https://i.postimg.cc/h4Jvh0NQ/In-Shot-20261127-055756314.png" width="500"
+  <img src="https://i.postimg.cc/h4Jvh0NQ/In-Shot-20261127-055756314.png" width="100%"> 
 
