@@ -2,17 +2,16 @@ wip hi
 
 <div align="center">
   <a href="LINK_1">
-    <img src="IMAGE_1" width="150" align="left" />
+    <img src="IMAGE_1" width="150">
   </a>
-  <br><br><br>
   <a href="LINK_2">
-    <img src="IMAGE_2" width="150" />
-  </a>
-  <br><br><br>
-  <a href="LINK_3">
-    <img src="IMAGE_3" width="150" align="right" />
+    <img src="IMAGE_2" width="150">
   </a>
 </div>
+
+
+
+
 
 
 
