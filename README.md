@@ -53,14 +53,6 @@ wip hi
             </a>
           </td>
         </tr>
-
-  <tr>
-          <td align="center" style="border: 2px solid #454955; padding: 25px;">
-            <a href="YOUR-INFOS-3-LINK">
-              <img src="YOUR-INFOS-3-IMAGE" width="150">
-            </a>
-          </td>
-        </tr>
       </table>
 
   </td>
