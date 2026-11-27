@@ -40,7 +40,7 @@ wip hi
 
 
 <div align="center">
-  <img src="IMAGE" width="250" align="left">
+  <img src="https://i.postimg.cc/02JSgncV/In-Shot-20261127-032350169.png" width="250" align="left">
 
   <details>
     <summary><b> ☆ </b></summary>
