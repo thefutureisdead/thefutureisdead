@@ -1,77 +1,39 @@
+wip hi
 
 
-  
+<table width="100%">
+  <tr>
+    <td width="65%" align="center" valign="middle">
+      <img src="https://i.postimg.cc/c4LyK8ym/In-Shot-20261127-004805955.png" width="100%">
+    </td>
+    <td width="35%" align="center" valign="middle">
 
-<div align="center">
-<img src="https://img.shields.io/badge/𝒉𝒆𝒅𝒈𝒆𝒉𝒐𝒈𝒔-627-AAB0E6?labelColor=4A7FBF">
-</div>
+   <table width="100%">
+        <tr>
+          <td align="center" style="border: 2px solid #454955; padding: 25px;">
+            <a href="YOUR-INFOS-1-LINK">
+              <img src="YOUR-INFOS-1-IMAGE" width="150">
+            </a>
+          </td>
+        </tr>
 
+  <tr>
+          <td align="center" style="border: 2px solid #454955; padding: 25px;">
+            <a href="YOUR-INFOS-2-LINK">
+              <img src="YOUR-INFOS-2-IMAGE" width="150">
+            </a>
+          </td>
+        </tr>
 
+  <tr>
+          <td align="center" style="border: 2px solid #454955; padding: 25px;">
+            <a href="YOUR-INFOS-3-LINK">
+              <img src="YOUR-INFOS-3-IMAGE" width="150">
+            </a>
+          </td>
+        </tr>
+      </table>
 
-
-
-
-<div align="center">
-   <img src="https://i.postimg.cc/Y0gPFh62/ezgif-8cc7addf66e6fe55.gif"
-             width="100%"> 
-
-<table>
-<tr>
-<td align="center">
-
-<details>
-<summary><b>pt infos!! #read </b></summary>
-
-<br>
-
-<table>
-<tr>
-<td> 
-
-name is banny! im 17y/o 
-
-this is an alt account (main: bannysuperman) not a spam following i just like to follow sonic fans- yall so cool ok? 
-
-i don't sit in the STH area ALWAYS but 
-if you saw me PLZZZZAHH sit with me!! 
-c+hfreely! im mostly always sit alone 
-there 
-
-IM SO FRIENDLY PLZ INT (im shy, i never int first) 
-sigh but most of time offt/afk so feel free 
-to whisper instead!! 
-
-im VERY OKEY with ships!! every ship 
-is good as long as its not 
-toxic/problematic/dark/pro ship! 
-
-SOMETIMES on offline mod, plz no i did not unfriend you, i don't send friend requests at all and i do not unfriend someone if they added me. 
-
-i change my readme A LOT. 
-
-if you wanna know more just check my strawpage!(im remakin it soon) 
-
-
-
-
-
-
-
-
-</td>
-</tr>
+  </td>
+  </tr>
 </table>
-
-</details>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-
-<div align="center">
-   <img src="https://i.postimg.cc/52n9tqw3/In-Shot-20261118-101501687.png"
-             width="100"> 
