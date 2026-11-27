@@ -21,7 +21,7 @@
   <img src="https://i.postimg.cc/02JSgncV/In-Shot-20261127-032350169.png" width="250" align="left">
 
   <details>
-    <summary><b> ☆ </b></summary>
+    <summary><b> #𝑹𝒆𝒂𝒅 / 𝒊𝒏𝒇𝒐𝒔 </b></summary>
 
   <p align="center">$\color{#48BAF6}{\textsf{𝑩𝒂𝒏𝒏𝒚}}$ $\color{#3851DF}{\textsf{𝒐𝒓}}$ $\color{#627CEB}{\textsf{𝑪𝒍𝒂𝒓𝒌}}$
 <p align="center">$\color{#48BAF6}{\textsf{𝑯𝒆 ' 𝑯𝒊𝒎 / 𝑷𝒂𝒏𝒆𝒙𝒖𝒂𝒍}}$
