@@ -74,7 +74,7 @@
 
 
 <div align="center">
-  <img src="https://i.postimg.cc/Zq2QKZ1D/In-Shot-20261127-064907394.png" width="300"> 
+  <img src="https://i.postimg.cc/Zq2QKZ1D/In-Shot-20261127-064907394.png" width="400"> 
 
 
 <div align="center">
