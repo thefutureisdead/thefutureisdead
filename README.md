@@ -41,7 +41,7 @@ wip hi
         <tr>
           <td align="center" style="border: 2px solid #454955; padding: 25px;">
             <a href="https://github.com/bannysuperman">
-              <img src="https://i.postimg.cc/QMRZHcRn/In-Shot-20261127-053058890.png" width="65">
+              <img src="https://i.postimg.cc/d0J4n3Gk/In-Shot-20261127-054812076.png" width="65">
             </a>
           </td>
         </tr>
@@ -49,7 +49,7 @@ wip hi
   <tr>
           <td align="center" style="border: 2px solid #454955; padding: 25px;">
             <a href="https://bannysupermanbyidniptinfos.straw.page">
-              <img src="https://i.postimg.cc/9fvHry6m/In-Shot-20261127-053045567.png" width="65">
+              <img src="https://i.postimg.cc/nhbdj0zY/In-Shot-20261127-054848266.png" width="65">
             </a>
           </td>
         </tr>
