@@ -1,6 +1,20 @@
 wip hi
 
 
+<div align="center">
+  <img src="https://i.postimg.cc/02JSgncV/In-Shot-20261127-032350169.png" width="250" align="left">
+
+  <details>
+    <summary><b> ☆ </b></summary>
+
+  wip 
+
+  </details>
+</div>
+
+
+
+
 <table width="100%">
   <tr>
     <td width="65%" align="center" valign="middle">
@@ -37,15 +51,3 @@ wip hi
   </td>
   </tr>
 </table>
-
-
-<div align="center">
-  <img src="https://i.postimg.cc/02JSgncV/In-Shot-20261127-032350169.png" width="250" align="left">
-
-  <details>
-    <summary><b> ☆ </b></summary>
-
-  wip 
-
-  </details>
-</div>
