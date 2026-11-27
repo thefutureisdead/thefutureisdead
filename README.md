@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="image or gif" width="250"
+  <img src="https://i.postimg.cc/HkS4d2fR/In-Shot-20261127-063513623.png" width="250"
 
 
 
