@@ -24,7 +24,7 @@
     <summary><b> #𝑹𝒆𝒂𝒅 / 𝒊𝒏𝒇𝒐𝒔 </b></summary>
 
   <p align="center">$\color{#48BAF6}{\textsf{𝑩𝒂𝒏𝒏𝒚}}$ $\color{#3851DF}{\textsf{𝒐𝒓}}$ $\color{#627CEB}{\textsf{𝑪𝒍𝒂𝒓𝒌}}$
-<p align="center">$\color{#48BAF6}{\textsf{𝑯𝒆 ' 𝑯𝒊𝒎 / 𝑷𝒂𝒏𝒆𝒙𝒖𝒂𝒍}}$ $\color{#3851DF}{\textsf{17}}$
+<p align="center">$\color{#48BAF6}{\textsf{𝑯𝒆 ' 𝑯𝒊𝒎 / 𝑷𝒂𝒏𝒆𝒙𝒖𝒂𝒍 }}$ $\color{#3851DF}{\textsf{/ 17}}$
 <p align="center">$\color{#627CEB}{\textsf{𝑪+𝑯𝑭𝒓𝒆𝒆𝒍𝒚}}$ $\color{#3851DF}{\textsf{𝑰𝒏𝒕𝑭𝒓𝒆𝒆𝒍𝒚}}$ $\color{#48BAF6}{\textsf{𝑾2𝒊 𝒊𝒇 𝒐𝒇𝒇𝒕/𝒂𝒇𝒌}}$
 <p align="center">$\color{#627CEB}{\textsf{𝑴𝒖𝒍𝒕𝒊𝒔𝒉𝒊𝒑𝒑𝒆𝒓 }}$ $\color{#3851DF}{\textsf{𝑴𝒖𝒍𝒕𝒊𝒇𝒂𝒏𝒅𝒐𝒎}}$
 <p align="center">$\color{#48BAF6}{\textsf{𝑺𝒉𝒚 /}}$ $\color{#627CEB}{\textsf{𝑵𝒆𝒗𝒆𝒓 𝒊𝒏𝒕}}$ $\color{#3851DF}{\textsf{𝒇𝒊𝒓𝒔𝒕}}$
