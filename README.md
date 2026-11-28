@@ -29,7 +29,7 @@
 <p align="center">$\color{#627CEB}{\textsf{𝑴𝒖𝒍𝒕𝒊𝒔𝒉𝒊𝒑𝒑𝒆𝒓 }}$ $\color{#3851DF}{\textsf{𝑴𝒖𝒍𝒕𝒊𝒇𝒂𝒏𝒅𝒐𝒎}}$
 <p align="center">$\color{#48BAF6}{\textsf{𝑺𝒉𝒚 /}}$ $\color{#627CEB}{\textsf{𝑵𝒆𝒗𝒆𝒓 𝒊𝒏𝒕}}$ $\color{#3851DF}{\textsf{𝒇𝒊𝒓𝒔𝒕}}$
 <p align="center">$\color{#48BAF6}{\textsf{𝒂𝒍𝒘𝒂𝒚𝒔 𝒄+𝒉}}$ $\color{#627CEB}{\textsf{𝒂𝒏𝒚1 𝒄𝒂𝒏 𝒔𝒊𝒕}}$ $\color{#3851DF}{\textsf{𝒘𝒊𝒕𝒉 𝒎𝒆 𝒆𝒗𝒆𝒏}}$ $\color{#48BAF6}{\textsf{𝒊𝒇 𝒎𝒚 𝒇𝒓𝒊𝒆𝒏𝒅𝒔}}$ $\color{#627CEB}{\textsf{𝒂𝒓𝒆}}$ $\color{#3851DF}{\textsf{𝒂𝒓𝒐𝒖𝒏𝒅!}}$ $\color{#48BAF6}{\textsf{𝑼𝑵𝑳𝑬𝑺𝑺 𝒕𝒉𝒆𝒓𝒆'𝒔}}$ $\color{#627CEB}{\textsf{𝑫𝒏𝒊𝒖𝒇/𝒊𝒅}}$ $\color{#3851DF}{\textsf{𝒐𝒏 𝒎𝒆}}$
-<p align="center">$\color{#48BAF6}{\textsf{𝒄𝒉𝒆𝒄𝒌 𝒊𝒏𝒇𝒐𝒔 𝒅𝒐𝒘𝒏}}$ $\color{#627CEB}{\textsf{𝒕𝒉𝒆𝒓𝒆}}$ $\color{#3851DF}{\textsf{𝒇𝒐𝒓 𝒎𝒐𝒓𝒆}}$
+<p align="center">$\color{#48BAF6}{\textsf{𝒄𝒉𝒆𝒄𝒌 𝒕𝒉𝒆 𝒊𝒏𝒇𝒐𝒔}}$ $\color{#627CEB}{\textsf{𝒃𝒆𝒍𝒐𝒘}}$ $\color{#3851DF}{\textsf{𝒇𝒐𝒓 𝒎𝒐𝒓𝒆!}}$
 
 
   </details>
